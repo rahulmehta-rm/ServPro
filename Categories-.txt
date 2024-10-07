@@ -1,0 +1,9 @@
+Categories- 
+	automobile mechanic, 
+	Roofing, 
+	Plumbing, 
+	Electrician, 
+	Driveway services, 
+	Carpenter, 
+	Cleaning services, 
+	Painter
