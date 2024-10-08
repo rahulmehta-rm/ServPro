@@ -1,9 +1,9 @@
 Categories- 
-	automobile mechanic, 
-	Roofing, 
-	Plumbing, 
-	Electrician, 
-	Driveway services, 
-	Carpenter, 
-	Cleaning services, 
-	Painter
+	Contractors, 
+	Electricians, 
+	Home Cleaners, 
+	HVAC, 
+	Locksmith, 
+	Movers,   
+	Towing, 
+	Phone Repair
